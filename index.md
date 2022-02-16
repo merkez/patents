@@ -2,18 +2,13 @@
 layout: default
 title: Home
 ---
-<!--  no theme will be loaded without the front matter above -->
 
+# Patents
 
-<!--  the html tag and head tag can be removed -->
-<body>
-  <h1>Patents</h1>
-  <ul>
-    <li> <a href="https://github.com/merkez/patents/blob/main/EP3787253A1.pdf">Low latency interactive media distribution using shared user hardware</a></li>
-    <li> <a href="https://github.com/merkez/patents/blob/main/US20200412626A1.pdf">Network - traffic - analysis - based suggestion generation</a></li>
-    <li> <a href="https://github.com/merkez/patents/blob/main/US20210011555A1.pdf">Methods , devices , and systems for displaying a user interface</a></li>
-    <li> <a href="https://github.com/merkez/patents/blob/main/US20200280629A1.pdf">Dialer with real-time reverse look-up including social data</a></li>
-    <li> <a href="https://github.com/merkez/patents/blob/main/US20200275159A1.pdf"> Transmitting video clips of viewers' reactions during a broadcast of a live video stream</a></li>
-  <li> <a href="https://github.com/merkez/patents/blob/main/US20210058662A1.pdf"> Video content placement optimization based on behavior and content analysis</a></li>
-  </ul>
-</body>
+- [Network - traffic - analysis - based suggestion generation](https://patents.google.com/patent/US20200412626A1/en?assignee=Facebook&num=25&oq=Facebook&sort=new)
+- [Transmitting video clips of viewers' reactions during a broadcast of a live video stream](https://patents.google.com/patent/US20200275159A1/en?assignee=Facebook&num=25&oq=Facebook&sort=new&page=1)
+- [Video content placement optimization based on behavior and content analysis](https://patents.google.com/patent/US20210058662A1/en?q=client&q=user&q=users&q=network&q=vicinity&before=priority:20111121&num=25&scholar&sort=new)
+- [Methods , devices , and systems for displaying a user interface](https://patents.google.com/patent/US20210011555A1/en?assignee=Facebook&num=25&oq=Facebook&sort=new)
+- [Low latency interactive media distribution using shared user hardware](https://patents.google.com/patent/EP3787253A1/en?assignee=Facebook&num=25&oq=Facebook&sort=new)
+- [Dialer with real-time reverse look-up including social data](https://patents.google.com/patent/US20200280629A1/en?assignee=Facebook&num=25&oq=Facebook&sort=new&page=1)
+
