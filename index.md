@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: Home
+---
+<!--  no theme will be loaded without the front matter above -->
 
-You can use the [editor on GitHub](https://github.com/merkez/patents/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!--  the html tag and head tag can be removed -->
+<body>
+  <h1>Patents</h1>
+  <ul>
+    <li> <a href="https://github.com/merkez/patents/blob/main/EP3787253A1.pdf">LOW LATENCY INTERACTIVE MEDIA DISTRIBUTION USING SHARED USER HARDWARE</a></li>
+    <li> <a href="https://github.com/merkez/patents/blob/main/US20200412626A1.pdf">NETWORK - TRAFFIC - ANALYSIS - BASED SUGGESTION GENERATION</a></li>
+    <li> <a href="https://github.com/merkez/patents/blob/main/US20210011555A1.pdf">METHODS , DEVICES , AND SYSTEMS FOR DISPLAYING A USER INTERFACE</a></li>
+    <li> <a href="https://github.com/merkez/patents/blob/main/US20200280629A1.pdf">Dialer with real-time reverse look-up including social data</a></li>
+    <li> <a href="https://github.com/merkez/patents/blob/main/US20200275159A1.pdf"> Transmitting video clips of viewers' reactions during a broadcast of a live video stream</a></li>
+  <li> <a href="https://github.com/merkez/patents/blob/main/US20210058662A1.pdf"> Video content placement optimization based on behavior and content analysis</a></li>
+   
+   
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/merkez/patents/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  </ul>
+</body>
