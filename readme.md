@@ -12,5 +12,14 @@
 
 ## Articles
 
+List of some papers that I read and highlight some points from variety of companies
+
+### Apple 
 - [iCloud Private Relay Overview](./articles/iCloud_Private_Relay_Overview_Dec2021.PDF) 
   - <sub>from https://developer.apple.com/support/prepare-your-network-for-icloud-private-relay/)</sub>
+
+- [Safari White Paper Nov 2019](articles/Safari_White_Paper_Nov_2019-1.pdf)
+  - <sub>from https://www.apple.com/safari/docs/Safari_White_Paper_Nov_2019.pdf  </sub>
+
+- [Law Enforcement guidelines outside of US](articles/law-enforcement-guidelines-outside-us.pdf)
+  - <sub> from https://www.apple.com/legal/privacy/law-enforcement-guidelines-outside-us.pdf </sub>
