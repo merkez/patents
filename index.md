@@ -12,3 +12,7 @@ title: Home
 - [Low latency interactive media distribution using shared user hardware](https://patents.google.com/patent/EP3787253A1/en?assignee=Facebook&num=25&oq=Facebook&sort=new)
 - [Dialer with real-time reverse look-up including social data](https://patents.google.com/patent/US20200280629A1/en?assignee=Facebook&num=25&oq=Facebook&sort=new&page=1)
 
+# Articles
+
+- [iCloud Private Relay Overview](https://developer.apple.com/support/prepare-your-network-for-icloud-private-relay/)
+  - <sub>PDF: https://www.apple.com/privacy/docs/iCloud_Private_Relay_Overview_Dec2021.PDF</sub>   
