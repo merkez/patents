@@ -12,4 +12,5 @@
 
 ## Articles
 
-- [iCloud Private Relay Overview](./articles/iCloud_Private_Relay_Overview_Dec2021.PDF) - (from https://developer.apple.com/support/prepare-your-network-for-icloud-private-relay/)
+- [iCloud Private Relay Overview](./articles/iCloud_Private_Relay_Overview_Dec2021.PDF) 
+  - <sub>from https://developer.apple.com/support/prepare-your-network-for-icloud-private-relay/)</sub>
